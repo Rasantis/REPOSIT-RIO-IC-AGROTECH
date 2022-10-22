@@ -23,6 +23,12 @@ O dashboard é implementado em um raspberry, para exibir e monitorar os dados.
 
 O programa da iniciação científica da FIAP da espaço e oportunidade para seus alunos se aventurarem por qualquer tema que quiserem. Com etapas de avaliações para continuar ou não o projeto, sendo apresentações de Pitch e demonstrações feitas por parte dos membros da equipe de IC e avaliados pelos professores da faculdade.
 
+
+## FIAP NEXT
+
+O evento NEXT é uma feira de tecnologia, expondo as inovações e tendências do mercado e fora do mercado. Além de ter presente diversas empresas que são potências tecnológicas, também há exposição de trabalho dos alunos da faculdade.
+Dessa maneira a FIAP difunde e movimenta o mercado tech nacional.
+
 ### Site do projeto
 Temos também o site criado para divulgar e explicar sobre o projeto.
 
